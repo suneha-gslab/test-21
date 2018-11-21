@@ -1,3 +1,3 @@
 directory '/root/suneha' do
- action :create
+  action :create
 end
